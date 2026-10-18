@@ -1,5 +1,4 @@
 Clean
 Sweep
-clean
-Buy broomMake soup
 Play gamesMy newest todo is added
+Make Soup
