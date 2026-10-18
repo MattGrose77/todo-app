@@ -3,3 +3,4 @@ Sweep
 clean
 sweep
 Make soup
+Clean windows
